@@ -75,7 +75,7 @@
     "prettier": "^2.6.2"
   },
   "description": "learning storybook",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": "https://github.com/hafizglasswall/learnstorybook-design-system.git",
   "author": "hafizglasswall <96419297+hafizglasswall@users.noreply.github.com>",
   "license": "MIT"
